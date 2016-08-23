@@ -25,10 +25,10 @@ A not so comprehensive list of Geek Holidays celebrated online.
 #### March
 03-04 - Game Master's Appreciation Day.<br>
 03-11 - [Douglas Adams'](http://www.douglasadams.com/) and James T. Kirk's Birthday.<br>
-03-14 - The 14th day of the third month is unofficially dedicated the irrational mathematical constant used to calculate many key geometric values.<br>
+03-14 - Pi Day.<br>
 03-23 - Wernher von Braun's Birthday.<br>
 03-24 - [Ada Lovelace](http://findingada.com/about/) Day.<br>
-03-25 - Tolkien Reading Day (Mar. 25) Commemorating the (fictional) anniversary of the Fall of Sauron, Tolkien Reading Day is one of two major geek holidays dedicated to partaking of the Middle Earth imaginings of one J. R. R. Tolkien.<br>
+03-25 - Tolkien Reading Day.<br>
 03-30 - Table Top Day.<br>
 03-31 - [World Backup](http://www.worldbackupday.com/en/) Day.
 
@@ -37,7 +37,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 04-05 - First Contact Day If you're a nerd/geek you'll know what this is. #trek<br>
 04-09 - [Global Internet of Things](http://iotday.org) (IoT) Day. #iotday<br>
 04-11 - [International Tabletop](http://www.tabletopday.com) Day. Break out the D&D and celebrate! #tabletopday<br>
-04-25 - DNA Day. This day celebrates the day in 1953 when James Watson, Francis Crick, Maurice Wilkins, Rosalind Franklin published their paper on the structure of the DNA.<br>
+04-25 - DNA Day.<br>
 04-26 - Alien Day.
  
 #### May
@@ -55,7 +55,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 #### July
 07-10 - Nikola Tesla Day.
 07-13 - [Embrace Your Geekness](http://www.geek.com/news/its-embrace-your-geekness-day-1269590/) Day.<br>
-07-27 - System Administrator Day and Gary Gygax Day. Gary, the creator of Dungeons and Dragons, was born on this day in 1938. Celebrate by playing some D&D with friends.<br>
+07-27 - System Administrator Day and Gary Gygax Day.<br>
 07-29 - Wil Wheaton's birthday.
 
 #### August
