@@ -36,7 +36,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 04-02 - [Arduino](https://day.arduino.cc/#/) Day #ArduinoD16<br>
 04-05 - First Contact Day If you're a nerd/geek you'll know what this is. #trek<br>
 04-09 - [Global Internet of Things](http://iotday.org) (IoT) Day. #iotday<br>
-04-11 - [International Tabletop](http://www.tabletopday.com) Day. Break out the D&D and celebrate! #tabletopday<br>
+04-11 - [International Tabletop](http://www.tabletopday.com) Day. Break out the D&D books and celebrate! #tabletopday<br>
 04-25 - DNA Day.<br>
 04-26 - Alien Day.
  
@@ -53,7 +53,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 06-28 - [Felicia Day's](http://feliciaday.com/) birthday.
 
 #### July
-07-10 - Nikola Tesla Day.
+07-10 - Nikola Tesla Day.<br>
 07-13 - [Embrace Your Geekness](http://www.geek.com/news/its-embrace-your-geekness-day-1269590/) Day.<br>
 07-27 - System Administrator Day and Gary Gygax Day.<br>
 07-29 - Wil Wheaton's birthday.
@@ -65,7 +65,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 08-22 - [Ray Bradbury's](http://www.raybradbury.com/) birthday.
 
 #### September
-09-12 - Programmer's Day (Sep. 12 or 13).
+09-12 - Programmer's Day (Sep. 12 or 13).<br>
 09-19 - [Talk Like A Pirate](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) and Software Freedom Day (Sep. 19).<br>
 09-22 - [Hobbit Day](https://en.wikipedia.org/wiki/Hobbit_Day).<br>
 09-26 - Batman Day.
