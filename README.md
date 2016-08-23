@@ -3,24 +3,24 @@
 A not so comprehensive list of Geek Holidays celebrated online. 
 
 #### January
-02 - [National Science Fiction](https://en.wikipedia.org/wiki/National_Science_Fiction_Day) Day and Isaac Asimov's birthday.<br>
-03 - J.R.R. Tolkien's birthday.<br>
-08 - Roy Batty's Incept date (Blade Runner) and Stephen Hawking's birthday.<br>
-12 - HAL 9000 goes online.<br>
-15 - [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Day) Day.<br>
-17 - Ben Franklin's birthday.<br>
-23 - Wear Your Nerdiest T-Shirt Day.<br>
-25 - [Apple Computer](https://en.wikipedia.org/wiki/Macintosh) Day.<br>
-26 - Dungeons & Dragons Day.<br>
-28 - [Data Privacy](https://en.wikipedia.org/wiki/Data_Privacy_Day) Day.
+01/02 - [National Science Fiction](https://en.wikipedia.org/wiki/National_Science_Fiction_Day) Day and Isaac Asimov's birthday.<br>
+01/03 - J.R.R. Tolkien's birthday.<br>
+01/08 - Roy Batty's Incept date (Blade Runner) and Stephen Hawking's birthday.<br>
+01/12 - HAL 9000 goes online.<br>
+01/15 - [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Day) Day.<br>
+01/17 - Ben Franklin's birthday.<br>
+01/23 - Wear Your Nerdiest T-Shirt Day.<br>
+01/25 - [Apple Computer](https://en.wikipedia.org/wiki/Macintosh) Day.<br>
+01/26 - Dungeons & Dragons Day.<br>
+01/28 - [Data Privacy](https://en.wikipedia.org/wiki/Data_Privacy_Day) Day.
 
 #### February
-02-08 - Clean Out Your Computer Day.<br>
-02-11 - National Inventors Day.<br>
-02-14 - Pris' Incept date (Blade Runner).<br>
-02-15 - Galileo Galliei's birthday.<br>
-02-19 - Nicolaus Copernicus's birthday.<br>
-02-27 - Pokemon Day.
+02/08 - Clean Out Your Computer Day.<br>
+02/11 - National Inventors Day.<br>
+02/14 - Pris' Incept date (Blade Runner).<br>
+02/15 - Galileo Galliei's birthday.<br>
+02/19 - Nicolaus Copernicus's birthday.<br>
+02/27 - Pokemon Day.
 
 #### March
 03-04 - Game Master's Appreciation Day.<br>
