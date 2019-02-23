@@ -23,6 +23,8 @@ A not so comprehensive list of Geek Holidays celebrated online.
 02/27 - Pokemon Day.
 
 ## March
+03/02 - Raspberry Pi Birthday Jam (Day 1)
+03/03 - Raspberry Pi Birthday Jam (Day 2)
 03/04 - Game Master's Appreciation Day.<br>
 03/11 - [Douglas Adams'](http://www.douglasadams.com/) and James T. Kirk's Birthday.<br>
 03/14 - Pi Day.<br>
@@ -85,5 +87,8 @@ A not so comprehensive list of Geek Holidays celebrated online.
 12/05 - Pretend You're a Ninja Day.<br>
 12/25 - Grav-Mass Day and Sir Isaac Newton's birthday.
 
+## Author
+Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
+
 ## License
-Source is released under the FreeBSD (BSD-2-Clause) License [license](license.md).
+Source is released under the Zero Clause BSD license (0BSD) [license](license.md).
