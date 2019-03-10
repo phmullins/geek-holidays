@@ -19,7 +19,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 02/11 - National Inventors Day.<br>
 02/14 - Pris' Incept date (Blade Runner).<br>
 02/15 - Galileo Galliei's birthday.<br>
-02/19 - Nicolaus Copernicus's birthday.<br>
+02/19 - Nicolaus Copernicus' birthday.<br>
 02/27 - Pokemon Day.
 
 ## March
@@ -76,7 +76,6 @@ A not so comprehensive list of Geek Holidays celebrated online.
 ## October
 10/03. [Techies](http://www.holidayinsights.com/moreholidays/October/techiesday.htm) Day and [Virus Appreciation](http://www.holidayinsights.com/moreholidays/October/virusappreciation.htm) Day.<br>
 10/13 - Happy Ada Lovelace Day! Celebrating the world's first computer programmer. #AdaLovelaceDay<br>
-10/16 - Ada Lovelace Day.<br>
 10/31 - Halloween.
 
 ## November
