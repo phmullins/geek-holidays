@@ -28,6 +28,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 03/04 - Game Master's Appreciation Day.<br>
 03/11 - [Douglas Adams'](http://www.douglasadams.com/) and James T. Kirk's Birthday.<br>
 03/14 - Pi Day.<br>
+03/23 - Hellboy Day!
 03/23 - Wernher von Braun's Birthday.<br>
 03/24 - [Ada Lovelace](http://findingada.com/about/) Day.<br>
 03/25 - Tolkien Reading Day.<br>
