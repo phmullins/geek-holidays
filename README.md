@@ -37,7 +37,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 
 ## April
 04/02 - [Arduino](https://day.arduino.cc/#/) Day #ArduinoD16<br>
-04/05 - First Contact Day If you're a nerd/geek you'll know what this is. #trek<br>
+04/05 - First Contact Day. If you're a nerd/geek you'll know what this is. #trek<br>
 04/09 - [Global Internet of Things](http://iotday.org) (IoT) Day. #iotday<br>
 04/11 - [International Tabletop](http://www.tabletopday.com) Day. Break out the D&D books and celebrate! #tabletopday<br>
 04/25 - DNA Day.<br>
@@ -56,7 +56,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 06/28 - [Felicia Day's](http://feliciaday.com/) birthday.
 
 ## July
-07/10 - Nikola Tesla Day.<br>
+07/10 - [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) Day.<br>
 07/13 - [Embrace Your Geekness](http://www.geek.com/news/its-embrace-your-geekness-day-1269590/) Day.<br>
 07/27 - System Administrator Day and Gary Gygax Day.<br>
 07/29 - Wil Wheaton's birthday.
@@ -64,7 +64,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 ## August
 08/16 - Debian Day. #DebianDay<br>
 08/19 - [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry) was born on this day in 1921.<br>
-08/20 - H.P. Lovecraft's Birthday.<br>
+08/20 - [H.P. Lovecraft's](https://en.wikipedia.org/wiki/H._P._Lovecraft) Birthday.<br>
 08/22 - [Ray Bradbury's](http://www.raybradbury.com/) birthday.
 
 ## September
@@ -75,7 +75,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 
 ## October
 10/03. [Techies](http://www.holidayinsights.com/moreholidays/October/techiesday.htm) Day and [Virus Appreciation](http://www.holidayinsights.com/moreholidays/October/virusappreciation.htm) Day.<br>
-10/13 - Happy Ada Lovelace Day! Celebrating the world's first computer programmer. #AdaLovelaceDay<br>
+10/13 - Happy [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) Day! Celebrating the world's first computer programmer. #AdaLovelaceDay<br>
 10/31 - Halloween.
 
 ## November
