@@ -27,6 +27,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 03/03 - Raspberry Pi Birthday Jam (Day 2)<br>
 03/04 - Game Master's Appreciation Day.<br>
 03/11 - [Douglas Adams'](http://www.douglasadams.com/) and James T. Kirk's Birthday.<br>
+03/13 - World Wide Web's 31st birthday (2020)
 03/14 - Pi Day.<br>
 03/23 - Hellboy Day!<br>
 03/23 - Wernher von Braun's Birthday.<br>
