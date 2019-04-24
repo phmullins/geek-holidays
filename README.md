@@ -41,6 +41,8 @@ A not so comprehensive list of Geek Holidays celebrated online.
 04/05 - First Contact Day. If you're a nerd/geek you'll know what this is. #trek<br>
 04/09 - [Global Internet of Things](http://iotday.org) (IoT) Day. #iotday<br>
 04/11 - [International Tabletop](http://www.tabletopday.com) Day. Break out the D&D books and celebrate! #tabletopday<br>
+04/22 - Earth Day
+04/23 - World Book Day. #WorldBookDay
 04/25 - DNA Day.<br>
 04/26 - Alien Day.
  
