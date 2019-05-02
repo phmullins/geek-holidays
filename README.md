@@ -27,7 +27,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 03/03 - Raspberry Pi Birthday Jam (Day 2)<br>
 03/04 - Game Master's Appreciation Day.<br>
 03/11 - [Douglas Adams'](http://www.douglasadams.com/) and James T. Kirk's Birthday.<br>
-03/13 - World Wide Web's 31st birthday (2020)
+03/13 - World Wide Web's 31st birthday (2020)<br>
 03/14 - Pi Day.<br>
 03/23 - Hellboy Day!<br>
 03/23 - Wernher von Braun's Birthday.<br>
@@ -41,10 +41,11 @@ A not so comprehensive list of Geek Holidays celebrated online.
 04/05 - First Contact Day. If you're a nerd/geek you'll know what this is. #trek<br>
 04/09 - [Global Internet of Things](http://iotday.org) (IoT) Day. #iotday<br>
 04/11 - [International Tabletop](http://www.tabletopday.com) Day. Break out the D&D books and celebrate! #tabletopday<br>
-04/22 - Earth Day
-04/23 - World Book Day. #WorldBookDay
+04/22 - Earth Day<br>
+04/23 - World Book Day. #WorldBookDay<br>
 04/25 - DNA Day.<br>
-04/26 - Alien Day.
+04/26 - Alien Day.<br>
+04/28 - National Superhero Day.
  
 ## May
 05/04 - Happy Star Wars Day. May the 4th be with you!<br>
