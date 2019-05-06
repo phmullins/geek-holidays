@@ -48,6 +48,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 04/28 - National Superhero Day.
  
 ## May
+05/02 - World Password Day.<br>
 05/04 - Happy Star Wars Day. May the 4th be with you!<br>
 05/07 - Free Comic Book Day (First Saturday in May).<br>
 05/08 - Mother's Day (the first woman to ever love your geekiness).<br>
