@@ -52,6 +52,7 @@ A not so comprehensive list of Geek Holidays celebrated online.
 05/04 - Happy Star Wars Day. May the 4th be with you!<br>
 05/07 - Free Comic Book Day (First Saturday in May).<br>
 05/08 - Mother's Day (the first woman to ever love your geekiness).<br>
+05/23 - International Synthesizer Day.<br>
 05/25 - [Geek Pride](https://en.wikipedia.org/wiki/Geek_Pride_Day) and [Towel](https://en.wikipedia.org/wiki/Towel_Day) Day. Happy Towel Day, froods!
 
 ## June
