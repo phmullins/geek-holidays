@@ -58,8 +58,8 @@ A not so comprehensive list of Geek Holidays celebrated online.
 
 ## June
 06/16 - [Captain Picard](http://memory-alpha.wikia.com/wiki/Captain_Picard_Day) Day.<br>
-06/18 - [Free RPG](http://www.freerpgday.com/) Day.<br>
 06/19 - Father's Day.<br>
+06/25 - [Free RPG](http://www.freerpgday.com/) Day.<br>
 06/28 - [Felicia Day's](http://feliciaday.com/) birthday.
 
 ## July
